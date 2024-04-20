@@ -1,0 +1,10 @@
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\obj\Debug\sc2.csproj.AssemblyReference.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\obj\Debug\sc2.csproj.CoreCompileInputs.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\bin\Debug\sc2.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\bin\Debug\sc2.pdb
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\bin\Debug\System.Drawing.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\obj\Debug\sc2.csproj.CopyComplete
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\obj\Debug\sc2.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\sc2\obj\Debug\sc2.pdb
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\bin\Debug\Plugin\sc2.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\bin\Debug\Plugin\sc2.pdb

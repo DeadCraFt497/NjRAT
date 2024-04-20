@@ -1,0 +1,30 @@
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NjRat 0.7D Green Edition by im523.csproj.AssemblyReference.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.About.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Builder.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Cam.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Chat.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.DDoS.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Dos.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.DW.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Form1.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.FromLink.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.fun.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.FURL.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.kl.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Manager.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Mic.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.My.Resources.NJRAT.Resources.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.NOIP.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Note.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.notf.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.OpenSite.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.pas.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.Pass.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.port.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.RGv.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.sc.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.script.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.STNG.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NJRAT.up.resources
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NjRat 0.7D Green Edition by im523.csproj.GenerateResource.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\obj\x86\Release\NjRat 0.7D Green Edition by im523.csproj.CoreCompileInputs.cache

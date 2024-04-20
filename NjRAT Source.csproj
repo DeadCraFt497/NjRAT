@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{F40A5397-148E-4220-B2AD-5A36ACCEDFAD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NJRAT</RootNamespace>
+    <AssemblyName>NjRat 0.7D Green Edition by intcost</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <StartupObject>NJRAT.My.MyApplication</StartupObject>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing">
+      <HintPath>..\..\..\MPMode\MSCO 4.0 + My Summer Car\Mysumm\mysummercar_Data\Managed\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="WinMM.Net">
+      <HintPath>..\..\NjRat.0.7D.Green.Edition (1)\WinMM.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Builder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Builder.Designer.cs">
+      <DependentUpon>Builder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cam.Designer.cs">
+      <DependentUpon>Cam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chat.Designer.cs">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class6.cs" />
+    <Compile Include="Class7.cs" />
+    <Compile Include="DDoS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDoS.Designer.cs">
+      <DependentUpon>DDoS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dos.Designer.cs">
+      <DependentUpon>Dos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DW.Designer.cs">
+      <DependentUpon>DW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromLink.Designer.cs">
+      <DependentUpon>FromLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fun.Designer.cs">
+      <DependentUpon>fun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FURL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FURL.Designer.cs">
+      <DependentUpon>FURL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GClass12.cs" />
+    <Compile Include="GClass2.cs" />
+    <Compile Include="GClass3.cs" />
+    <Compile Include="GClass4.cs" />
+    <Compile Include="GClass5.cs" />
+    <Compile Include="GClass6.cs" />
+    <Compile Include="GClass7.cs" />
+    <Compile Include="GClass8.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GClass9.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IconN.cs" />
+    <Compile Include="kl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kl.Designer.cs">
+      <DependentUpon>kl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="L1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mic.Designer.cs">
+      <DependentUpon>Mic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="My\MyApplication.cs" />
+    <Compile Include="My\MyComputer.cs" />
+    <Compile Include="My\MyProject.cs" />
+    <Compile Include="My\MySettings.Designer.cs">
+      <DependentUpon>MySettings.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="My\MySettingsProperty.cs" />
+    <Compile Include="My\Resources\NJRAT.Resources.Designer.cs">
+      <DependentUpon>NJRAT.Resources.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="NJRAT\Client.cs" />
+    <Compile Include="njRAT\SK.cs" />
+    <Compile Include="NOIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NOIP.Designer.cs">
+      <DependentUpon>NOIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Note.Designer.cs">
+      <DependentUpon>Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="notf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="notf.Designer.cs">
+      <DependentUpon>notf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpenSite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OpenSite.Designer.cs">
+      <DependentUpon>OpenSite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pas.Designer.cs">
+      <DependentUpon>pas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pass.Designer.cs">
+      <DependentUpon>Pass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="port.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="port.Designer.cs">
+      <DependentUpon>port.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pp1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RGv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RGv.Designer.cs">
+      <DependentUpon>RGv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sc.Designer.cs">
+      <DependentUpon>sc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="script.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="script.Designer.cs">
+      <DependentUpon>script.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STNG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STNG.Designer.cs">
+      <DependentUpon>STNG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="up.Designer.cs">
+      <DependentUpon>up.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Builder.resx">
+      <DependentUpon>Builder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cam.resx">
+      <DependentUpon>Cam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chat.resx">
+      <DependentUpon>Chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDoS.resx">
+      <DependentUpon>DDoS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dos.resx">
+      <DependentUpon>Dos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DW.resx">
+      <DependentUpon>DW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromLink.resx">
+      <DependentUpon>FromLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fun.resx">
+      <DependentUpon>fun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FURL.resx">
+      <DependentUpon>FURL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kl.resx">
+      <DependentUpon>kl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mic.resx">
+      <DependentUpon>Mic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My\Resources\NJRAT.Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>NJRAT.Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NOIP.resx">
+      <DependentUpon>NOIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Note.resx">
+      <DependentUpon>Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="notf.resx">
+      <DependentUpon>notf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpenSite.resx">
+      <DependentUpon>OpenSite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pas.resx">
+      <DependentUpon>pas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass.resx">
+      <DependentUpon>Pass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="port.resx">
+      <DependentUpon>port.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RGv.resx">
+      <DependentUpon>RGv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sc.resx">
+      <DependentUpon>sc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="script.resx">
+      <DependentUpon>script.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STNG.resx">
+      <DependentUpon>STNG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="up.resx">
+      <DependentUpon>up.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="app.manifest" />
+    <None Include="My\MySettings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>MySettings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,8 @@
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\obj\Debug\mic.csproj.AssemblyReference.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\obj\Debug\mic.csproj.CoreCompileInputs.cache
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\bin\Debug\mic.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\bin\Debug\mic.pdb
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\obj\Debug\mic.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\Plugins\mic\obj\Debug\mic.pdb
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\bin\Debug\Plugin\mic.dll
+D:\temp\njbat\nkrat\NjRat 0.7D Green Edition by im523\bin\Debug\Plugin\mic.pdb
